@@ -12,6 +12,7 @@ Improve the safety of women and men walking streets and passing through areas;
 -Can help incremenate people 
 -Can spot navigate where crimes happen (and what crimes happen in each area)
 -You can display the benifits of reporting incidents using grphs in relation to the amounbt of reports correlate to the 
+-Gives people an additional sense of safety 
 
 
 ### Options Considered
