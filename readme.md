@@ -1,6 +1,6 @@
 # TODO: Guard
 
-TODO: Brief outline of your project describing the dataset
+TODO: Brief outline of your project describing the dataset...
 
 1. [Planning](docs/planning.md)
 2. [Requirements](docs/requirements.md)
