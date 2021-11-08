@@ -15,6 +15,12 @@ TODO: Write brief user stories to explain how various actors would interact with
 ### Actors
 TODO: List and describe the actors/users for this product.
 
+- Women
+- Men
+- Parent
+- Children
+- Policeman/Policewoman
+
 ### Use Cases
 TODO: Describe each use case (one per team member).
     Give each use case a unique ID, e.g. UC1, UC2, ...
