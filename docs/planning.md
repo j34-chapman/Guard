@@ -22,13 +22,13 @@ According to 'Plan International' - a charity for children and equality for girl
 TODO: List high-level benefits that this product will provide.
 Improve the safety of women and men walking streets and passing through areas;
 
-- Can help incremenate people 
+- Users, emergency services and the government can work together to help incremenate criminals, allowing users a more accessible way to report crimes
 
-- Can spot navigate where crimes happen (and what crimes happen in each area)
+- Can very precisely identify where and what crimes happen in each area
 
-- You can display the benifits of reporting incidents using grphs in relation to the amounbt of reports correlate to the 
+- Weekly, monthly and yearly incidents will be displayed using graphs to indicate the number of crimes in areas that may have also decreased (Improved safety).
 
-- Gives people an additional sense of safety 
+- Gives people, friends and family an additional sense of safety 
 
 
 ### Options Considered
