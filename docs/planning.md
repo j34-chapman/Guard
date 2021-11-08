@@ -1,6 +1,9 @@
 # Project Proposal
 
-## Business Case
+## Business Case!
+
+[Guard Logo](https://user-images.githubusercontent.com/86235504/140732694-e6dd5ea1-0788-46e3-beba-f7b7f82d8d9e.png)
+
 
 
 ### Problem statement
