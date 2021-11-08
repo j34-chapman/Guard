@@ -21,6 +21,8 @@ TODO: List and describe the actors/users for this product.
 - Child
 - Friend
 - Family member
+- Student
+- Worker
 - Policeman/Policewoman
 
 ### Use Cases
