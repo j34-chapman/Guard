@@ -1,6 +1,6 @@
 # Project Proposal
 
-## Business Case: Guard - Getting you home safely.
+## Business Case: Guard - Getting you home safe.
 
 ![Guard Logo](https://user-images.githubusercontent.com/86235504/140732953-5a7f07b3-4f4c-42a9-8275-015084d988aa.png)
 
