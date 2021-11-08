@@ -18,7 +18,9 @@ TODO: List and describe the actors/users for this product.
 - Women
 - Men
 - Parent
-- Children
+- Child
+- Friend
+- Family member
 - Policeman/Policewoman
 
 ### Use Cases
