@@ -6,6 +6,15 @@
 ### Problem statement
 TODO: Replace the example text like this with text that describes your project. What is the problem to be addressed?
 
+According to 'Plan International' - a charity for children and equality for girls, almost two thirds of adult women (63%) in Britain say they feel unsafe walking alone after dark. Almost half (48%) felt the same way when they were of school age. 
+
+- By utilizing 'BristolOpenData', Guard proposes an all ecompassing application which will signficantly increase the safety of men, women and children getting from destination to destination. With filters for different types of crimes, Guard will provide a map navigation system that will clearly highlight all the areas from previously reported crimes as well as total crimes committed. Full transparency. Guard will also act like a public forumn where users and will be able to report their own crimes by selecting an area on the map (with attachment options and will be moderated by admins/emergency services).
+
+- Guard aims to be used by not only civilians but by emergency services.
+
+- There will be several other functions which will allow users to feel safer walking around Bristol: 
+
+
 
 ### Business benefits
 TODO: List high-level benefits that this product will provide.
@@ -22,6 +31,12 @@ Improve the safety of women and men walking streets and passing through areas;
 
 ### Options Considered
 TODO: What are some other customer options or leading products that address the same needs?
+
+- Life360: "Life360 allows you to stay connected to key contacts wherever they are, when you’re walking home alone at night (or any time!)"
+
+- One Scream: "Once your scream is detected, a text message and an automated call with your location is then sent to your nominated contact."
+
+- Shake2Safety: "The Shafe2Safety app lets you send text messages to emergency contacts, as well as share pictures and audio in emergency situations. By shaking the phone or pressing the power button 4 times, you can send as many text messages as you like to primary contacts, but only one phone call. It’ll work on a locked screen, and also when you have no internet connection, ideal for when you’re walking home alone at night."
 
 
 ### Expected Risks
