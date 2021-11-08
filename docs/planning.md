@@ -2,9 +2,7 @@
 
 ## Business Case!
 
-[Guard Logo](https://user-images.githubusercontent.com/86235504/140732694-e6dd5ea1-0788-46e3-beba-f7b7f82d8d9e.png)
-
-
+![Guard Logo](https://user-images.githubusercontent.com/86235504/140732953-5a7f07b3-4f4c-42a9-8275-015084d988aa.png)
 
 ### Problem statement
 TODO: Replace the example text like this with text that describes your project. What is the problem to be addressed?
