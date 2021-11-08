@@ -2,8 +2,10 @@
 
 ## Business Case
 
+
 ### Problem statement
 TODO: Replace the example text like this with text that describes your project. What is the problem to be addressed?
+
 
 ### Business benefits
 TODO: List high-level benefits that this product will provide.
@@ -20,6 +22,7 @@ Improve the safety of women and men walking streets and passing through areas;
 
 ### Options Considered
 TODO: What are some other customer options or leading products that address the same needs?
+
 
 ### Expected Risks
 TODO: What are the main risks of this project?
