@@ -12,7 +12,9 @@ According to 'Plan International' - a charity for children and equality for girl
 
 - Guard aims to be used by not only civilians but by emergency services.
 
-- There will be several other functions which will allow users to feel safer walking around Bristol: 
+- There will be several other functions which will allow users to feel safer walking around incooporated from other applications: Life360, allows you to stay connected to key contacts wherever they are. OneScream, which detects your cry for help and will send an automated text and call to your nominated contacts of your location. Shake2Safety, as people sometimes don't have the time to unlock their phone, this function allows you to very easily send your location/text messages to your emergency contacts by shaking your phone or pressing the button 3 times. An overlay on your lockscreen will also have options to call the police or an emergency contact.
+
+- Upon your phone dying, your last most recent location will also be sent to your chosen emergency contacts.
 
 
 
