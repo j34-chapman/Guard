@@ -5,6 +5,12 @@
 ### User stories
 TODO: Write brief user stories to explain how various actors would interact with the system to accomplish a goal.
     Express these in the form from agile development:- As a (role) I want (goal) so that (benefit).
+    
+    - As a civilian/pedestrian, I want to find the safest route so I can get home safely
+    - As a civilian/pedestrian, I want to easily report a crime so that I can feel safe knowing that the information will be used by the Emergency Services and other people
+    - As a parent, I want to see that my child is arriving to their location safely and be able to see their location incase of an emergency. I will then worry less
+    - As a policeman, I want to be able to track and monitor crimes in different areas of Bristol, this will help us make potential arrests and send staff to areas to patrol
+   
 
 ### Actors
 TODO: List and describe the actors/users for this product.
