@@ -56,3 +56,4 @@ TODO: What are the main risks of this project?
 TODO: Scope of the System of Interest. Include a bullet list of things from your context diagram that are in scope.
 
 ![Insert your Context Diagram Here](images/context.png)
+[Spider diagram.docx](https://github.com/j34-chapman/Guard/files/7496774/Spider.diagram.docx)
