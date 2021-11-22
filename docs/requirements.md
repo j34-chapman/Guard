@@ -53,8 +53,10 @@ TODO: Your Use-Case diagram should include all use-cases.
 
 
 ### Non-Functional Requirements
-NFR1: It should authenticate each user on the app with an id application (Security)
-NFR2: User data should not be disributed or acessbile by others (Safety)
+NFR1: It should authenticate each user on the app with an id application (Fucntionality (Security))
+NFR2: User data should not be disributed or acessbile by others (Functionality (Safety))
+NFR3: It should link a reporting to someones to account Data (Functionality (Tracability))
+NFR4: Manipulation of data must be reported (Functionality (Accountablity))
 
 TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
 Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
