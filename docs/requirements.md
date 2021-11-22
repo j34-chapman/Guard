@@ -55,7 +55,7 @@ TODO: Describe each use case (one per team member).
 | **UC3** | Accessible Emergency Contact |
 | **Actors** | Pedestrian, Emergency Service |
 | **Assumptions** |  Post-conditions: 
-| **Steps** | 1. *Opt to view map 2. Opt to select location on map* 3. Display option to report a crime 4. *Opt to report a crime* 5. Display text box and option to add media attachments 6. *Submit detailed report of crime about said area* |
+| **Steps** | |
 | **Variations** | N/A |
 | **Non-functional** | The service should run on different web browsers (Microsoft Edge, Google Chrome, Internet Explorer) |
 | **Issues** | N/A |
