@@ -32,6 +32,7 @@ TODO: Describe each use case (one per team member).
 
 | TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
+| **UC1** | TODO: Goal to be achieved by use case and sources for requirement |
 | **Description** | TODO: Goal to be achieved by use case and sources for requirement |
 | **Actors** | TODO: List of actors involved in use case |
 | **Assumptions** | TODO: Pre/post-conditions if any</td></tr>
