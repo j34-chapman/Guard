@@ -38,7 +38,7 @@ TODO: Describe each use case (one per team member).
 | **Steps** | 1. *Opt to view map and different routes to selected destination address* 2. Request Permission to access user location 3. *Give Permission for geo-location (on request)* 4. Get fastest route to destination address and display areas exhibiting crime rates 5. *View map navigator towards destination address* |
 | **Variations** | Allow application to select recommended route based of safest route (walking through the lowest crime rate path). |
 | **Non-functional** | The service should run on different web browsers (Microsoft Edge, Google Chrome, Internet Explorer) |
-| **Issues** | n/a |
+| **Issues** | N/A |
 
 | TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
@@ -46,9 +46,9 @@ TODO: Describe each use case (one per team member).
 | **Actors** | Pedestrian, Developer, Emergency Service |
 | **Assumptions** |  Pre-conditions: Log in to the application > Select area on the map > Select option to report crime > Enter detailed report/media attatchments > Submit report. Post-conditions: Developers review the report > Emergency Services review the report > Data is shared with BristolOpenData > Crime report is added onto map navigator
 | **Steps** | 1. *Opt to view map 2. Opt to select location on map* 3. Display option to report a crime 4. *Opt to report a crime* 5. Display text box and option to add media attachments 6. *Submit detailed report of crime about said area* |
-| **Variations** | n/a |
+| **Variations** | N/A |
 | **Non-functional** | The service should run on different web browsers (Microsoft Edge, Google Chrome, Internet Explorer) |
-| **Issues** | n/a |
+| **Issues** | N/A |
 
 TODO: Your Use-Case diagram should include all use-cases.
 
