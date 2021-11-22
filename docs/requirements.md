@@ -37,7 +37,7 @@ TODO: Describe each use case (one per team member).
 | **Assumptions** | Pre-conditions: Log in to the application > Enter desired destination address > Select route based on rate of  crime in different areas. Post-conditions: Select a different route based on rate of crime in different area
 | **Steps** | 1. *Opt to view map and different routes to selected destination address* 2. Request Permission to access user location 3. *Give Permission for geo-location (on request)* 4. Get fastest route to destination address and display areas exhibiting crime rates 5. *View map navigator towards destination address* |
 | **Variations** | Allow application to select recommended route based of safest route (walking through the lowest crime rate path). |
-| **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
+| **Non-functional** | The service should run on different web browsers (Microsoft Edge, Google Chrome, Internet Explorer) |
 | **Issues** | TODO: OPTIONAL - List of issues that remain to be resolved |
 
 
