@@ -32,9 +32,9 @@ TODO: Describe each use case (one per team member).
 
 | TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
-| **UC1** | Searching for different safe routes home |
+| **UC1** | Searching for a preferred safe route home |
 | **Actors** | Pedestrian |
-| **Assumptions** | TODO: Pre/post-conditions if any</td></tr>
+| **Assumptions** | Pre-conditions: Log in to the application > Enter desired destination address > Select route based on rate of  crime in different areas. Post-conditions: Select a different route based on rate of crime in different area
 | **Steps** | TODO: Interactions between actors and system necessary to achieve goal |
 | **Variations** | TODO: OPTIONAL - Any variations in the steps of a use case |
 | **Non-functional** | TODO: OPTIONAL - List of non-functional requirements that the use case must meet. |
