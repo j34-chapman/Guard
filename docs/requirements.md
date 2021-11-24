@@ -52,12 +52,12 @@ TODO: Describe each use case (one per team member).
 
 | TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
-| **UC3** | Accessible Emergency Contact |
-| **Actors** | Pedestrian, Emergency Service |
-| **Assumptions** |  Post-conditions: 
-| **Steps** | |
-| **Variations** | N/A |
-| **Non-functional** | The service should run on different web browsers (Microsoft Edge, Google Chrome, Internet Explorer) |
+| **UC3** | Accessible Emergency Contacting |
+| **Actors** | Pedestrians, Emergency Services |
+| **Assumptions** |  N/A
+| **Steps** | *Press the lock button 3 times to call the police and notify emergency contact of location* OR *Shout/Scream and emergency contact will be notified of your location* |
+| **Variations** | The phone lockscreen will display 2 options: call emergency contact and call the police |
+| **Non-functional** | N/A |
 | **Issues** | N/A |
 
 TODO: Your Use-Case diagram should include all use-cases.
