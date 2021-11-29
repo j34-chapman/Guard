@@ -9,4 +9,5 @@ provide a table listing the number of jslint warnings/reports for each module.
 
 ## Software Architecture
 TODO: Describe the major components of your architecture. Are any particular architectural styles being used?
+
 ![Software Architecture diagram Implmentation](https://user-images.githubusercontent.com/93520494/143852891-3ae9cd20-afef-48d6-93e9-b9d3387cb71e.png)
