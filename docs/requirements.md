@@ -43,7 +43,7 @@ TODO: Describe each use case (one per team member).
 | TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
 | **UC2** | Track and Report Crimes |
-| **Actors** | Pedestrian, Developer, Emergency Service |
+| **Actors** | Pedestrian, Emergency Service |
 | **Assumptions** |  Pre-conditions: Log in to the application > Select area on the map > Select option to report crime > Enter detailed report/media attatchments > Submit report. Post-conditions: Developers review the report > Emergency Services review the report > Data is shared with BristolOpenData > Crime report is added onto map navigator
 | **Steps** |<pre> 1. Opt to view map&#13; 2. Opt to select location on map&#13; 3. Display option to report a crime&#13; 4. Opt to report a crime&#13; 5. Display text box and option to add media attachments&#13; 6. Submit detailed report of crime about said area</pre> |
 | **Variations** | N/A |
