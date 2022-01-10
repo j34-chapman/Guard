@@ -17,3 +17,7 @@ TODO: repeat as necessary
 Whimsical Wireframe - Airen
 
 ![26caf472-fdaa-495a-8703-43707a25d620](https://user-images.githubusercontent.com/86235504/148756418-0f5065d2-cde8-415f-8d78-bdbc593b3915.png)
+
+Whimsical Wireframe - Jake
+
+![abd2de14-0332-42d3-a903-5ac53e67178e](https://user-images.githubusercontent.com/93520494/148757940-2577e33e-96f6-4683-bd24-1368fc676790.png)
