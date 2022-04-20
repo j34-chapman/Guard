@@ -23,8 +23,11 @@ Whimsical Wireframe - Jake (Updated 2)
 ![untitled@2x](https://user-images.githubusercontent.com/93520494/164234872-77721d8c-35c7-4a2f-bb10-4e11cd8fddcc.png)
 
 Home Page - Displays the information and function of the website . 
+
 Find Safest Area (Button) - By pressing this will display information of the safest area in ascending order from safest to least safest. 
+
 Find Safest Area (Page - Search Bar) - By searching with this search this will display the given area with the statistics of crime 
+
 Report A Crime - This will load a map displaying the area of the crimes . Then will grant youre user loacation to report the crime.
 
 
