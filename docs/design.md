@@ -8,7 +8,7 @@ Describe it in terms of interactions between the components introduces above, an
 
 ![UC2 Sequence Diagram](https://user-images.githubusercontent.com/94834832/166523968-1c50da5d-5eff-4ad1-af98-90a7fe166a09.JPG)
 
-
+![UC3 Sequence Diagram](https://user-images.githubusercontent.com/93520494/166569392-19ef49a7-3fcc-4f1f-a9e4-262882a27276.jpg)
 
 
 ## User Interface design
@@ -21,7 +21,7 @@ TODO: repeat as necessary
 
 ![26caf472-fdaa-495a-8703-43707a25d620](https://user-images.githubusercontent.com/86235504/148756418-0f5065d2-cde8-415f-8d78-bdbc593b3915.png)
 
-### Whimsical Wireframe - Jake (Updated 2) 
+### Whimsical Wireframe - Jake  
 
 ![untitled@2x](https://user-images.githubusercontent.com/93520494/164234872-77721d8c-35c7-4a2f-bb10-4e11cd8fddcc.png)
 
