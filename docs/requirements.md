@@ -26,11 +26,9 @@ TODO: List and describe the actors/users for this product.
 - Policeman/Policewoman
 
 ### Use Cases
-TODO: Describe each use case (one per team member).
-    Give each use case a unique ID, e.g. UC1, UC2, ...
-    Summarise these using the use-case template below.
 
-| TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
+
+| UC1 | Search for safest route | 
 | -------------------------------------- | ------------------- |
 | **UC1** | Searching for a preferred safe route home |
 | **Actors** | Pedestrian |
@@ -40,24 +38,24 @@ TODO: Describe each use case (one per team member).
 | **Non-functional** | The service should run on different web browsers (Microsoft Edge, Google Chrome, Internet Explorer) |
 | **Issues** | N/A |
 
-| TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
+| UC2 | View crime data by category | 
 | -------------------------------------- | ------------------- |
 | **UC2** | View crime data by category |
 | **Actors** | Pedestrian |
 | **Assumptions** |  Pre-conditions: Log in to the application > Select option to view data by category > Select category to sort data by > select subcategory to view data Post-conditions: Sort data by selected conditions
 | **Steps** |<pre> 1. Opt to view data by category&#13; 2. Opt to select sort by location or date of crime&#13; 3. Display option to select all datas or locations available&#13; 4. Display table of data with conditions selected&#13; 5. Change data in table according to any changes to conditions selected</pre> |
-| **Variations** | N/A |
+| **Variations** | allow for indivdual years to be selected when sorting by date |
 | **Non-functional** | The service should run on different web browsers (Microsoft Edge, Google Chrome, Internet Explorer) |
 | **Issues** | N/A |
 
-| TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
+| UC3 | Search bar for all queries | 
 | -------------------------------------- | ------------------- |
-| **UC3** | Accessible Emergency Contacting |
-| **Actors** | Pedestrians, Emergency Services |
-| **Assumptions** |  N/A
-| **Steps** | *Press the lock button 3 times to call the police and notify emergency contact of location* OR *Shout/Scream and emergency contact will be notified of your location* |
-| **Variations** | The phone lockscreen will display 2 options: call emergency contact and call the police |
-| **Non-functional** | N/A |
+| **UC3** | Search bar for all queries  |
+| **Actors** | Pedestrians |
+| **Assumptions** |  Pre-conditions: Log in to the application > Enter query to be searched into bar located at top right of screen > click button to execute search Post-conditions: search for terms within table using entered query
+| **Steps** | <pre> 1. Opt to select search bar at top right&#13; 2. Opt to enter query wished to be searched&#13; 3. Display table with any contents similar to query entered within search bar </pre>  |
+| **Variations** | N/A |
+| **Non-functional** | The service should run on different web browsers (Microsoft Edge, Google Chrome, Internet Explorer)  |
 | **Issues** | N/A |
 
 TODO: Your Use-Case diagram should include all use-cases.
