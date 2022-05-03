@@ -32,7 +32,7 @@ TODO: List and describe the actors/users for this product.
 | -------------------------------------- | ------------------- |
 | **UC1** | Find Safest Area |
 | **Actors** | Pedestrian |
-| **Assumptions** | Pre-conditions: Log in to the application > Select Option/Button to view Safest Area > Select route based on rate of  crime in different areas. Post-conditions: Choose safest area to say in 
+| **Assumptions** | Pre-conditions: Log in to the application > Select Option/Button to view Safest Area > Select route based on rate of crime in different areas. Post-conditions: Choose safest area to walk in 
 | **Steps** |<pre> 1. Opt to view data on safest areas&#13; 2. Display lowest number of crime in ascending order</pre> |
 | **Variations** | Find lowest crime per category not just 'Total Crime'. |
 | **Non-functional** | The service should run on different web browsers (Microsoft Edge, Google Chrome, Internet Explorer) |
