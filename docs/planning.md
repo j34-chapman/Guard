@@ -33,31 +33,36 @@ Improve the safety of women and men walking streets and passing through areas;
 
 
 ### Options Considered
-TODO: What are some other customer options or leading products that address the same needs?
-Looking at what other apps provide a similar service and how we can improve them;
+TODO: What are some other customer options or leading products that address the same needs? - Looking at what other apps provide a similar service and how we can improve them;
 
-- Life360: "Life360 allows you to stay connected to key contacts wherever they are, when you’re walking home alone at night (or any time!)"
+- Life360: "Life360 allows you to stay connected to key contacts wherever they are, when you’re walking home alone at night (or any time!)" - https://www.life360.com/intl/
 
-- One Scream: "Once your scream is detected, a text message and an automated call with your location is then sent to your nominated contact."
+- One Scream: "Once your scream is detected, a text message and an automated call with your location is then sent to your nominated contact." - https://www.onescream.com
 
-- Shake2Safety: "The Shafe2Safety app lets you send text messages to emergency contacts, as well as share pictures and audio in emergency situations. By shaking the phone or pressing the power button 4 times, you can send as many text messages as you like to primary contacts, but only one phone call. It’ll work on a locked screen, and also when you have no internet connection, ideal for when you’re walking home alone at night."
+- Shake2Safety: "The Shafe2Safety app lets you send text messages to emergency contacts, as well as share pictures and audio in emergency situations. By shaking the phone or pressing the power button 4 times, you can send as many text messages as you like to primary contacts, but only one phone call. It’ll work on a locked screen, and also when you have no internet connection, ideal for when you’re walking home alone at night." - https://play.google.com/store/apps/details?id=com.photon.shake2safety&hl=en_GB&gl=US
 
 
 ### Expected Risks
-TODO: What are the main risks of this project?
-Considering why this application may not be succesful;
+TODO: What are the main risks of this project? - Here we are considering why this application may not be succesful and the risks when carrying out this project;
 
 - For people who are carrying out crimes it can be used in a opposite manner and provide a way to target people
 
 - If not enough people use the data and submitt data it can become outdated and unreliable ,last years crimes satistics will not be the same as the month/year/day before
 
-- Could there be immediate action , people may question if the data can be provided to the police and may feel like the app is pointless if people do not see the direct result of someone becoming incremneated 
+- Could there be immediate action ? people may question if the data can be provided to the police and may feel like the app is pointless if people do not see the direct result of someone becoming incremneated 
 
 
 ## Project Scope
 TODO: Scope of the System of Interest. Include a bullet list of things from your context diagram that are in scope.
 
+
+
 ![Screen shot final](https://user-images.githubusercontent.com/93520494/140740275-b840075e-b7d2-444a-abc3-3aabb252537e.png)
+
+*HTMl JAva Script 
+*Web application 
+*Smart Watch 
+*Mobile Style
 
 
 
