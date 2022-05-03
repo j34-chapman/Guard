@@ -60,8 +60,10 @@ TODO: List and describe the actors/users for this product.
 
 TODO: Your Use-Case diagram should include all use-cases.
 
+![Updated USE CASE](https://user-images.githubusercontent.com/93520494/166518607-87068fe1-90af-4658-923c-5a2554591203.jpg)
 
-![UseCase DiagramUpdated](https://user-images.githubusercontent.com/93520494/142854598-5aa67f6b-c627-46f6-9dd8-b2fef9871848.png)
+
+
 
 ## Software Requirements Specification
 ### Functional requirements
