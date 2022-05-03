@@ -42,10 +42,10 @@ TODO: Describe each use case (one per team member).
 
 | TODO: USE-CASE ID e.g. UC1, UC2, ... | TODO: USE-CASE NAME | 
 | -------------------------------------- | ------------------- |
-| **UC2** | Track and Report Crimes |
-| **Actors** | Pedestrian, Emergency Service |
-| **Assumptions** |  Pre-conditions: Log in to the application > Select area on the map > Select option to report crime > Enter detailed report/media attatchments > Submit report. Post-conditions: Developers review the report > Emergency Services review the report > Data is shared with BristolOpenData > Crime report is added onto map navigator
-| **Steps** |<pre> 1. Opt to view map&#13; 2. Opt to select location on map&#13; 3. Display option to report a crime&#13; 4. Opt to report a crime&#13; 5. Display text box and option to add media attachments&#13; 6. Submit detailed report of crime about said area</pre> |
+| **UC2** | View crime data by category |
+| **Actors** | Pedestrian |
+| **Assumptions** |  Pre-conditions: Log in to the application > Select option to view data by category > Select category to sort data by > select subcategory to view data Post-conditions: Sort data by selected conditions
+| **Steps** |<pre> 1. Opt to view data by category&#13; 2. Opt to select sort by location or date of crime&#13; 3. Display option to select all datas or locations available&#13; 4. Display table of data with conditions selected&#13; 5. Change data in table according to any changes to conditions selected</pre> |
 | **Variations** | N/A |
 | **Non-functional** | The service should run on different web browsers (Microsoft Edge, Google Chrome, Internet Explorer) |
 | **Issues** | N/A |
