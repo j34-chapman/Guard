@@ -4,7 +4,7 @@
 TODO: Describe a concrete scenario for each use-case. 
 Describe it in terms of interactions between the components introduces above, and the actors introduced in your requirements.
 
-![UC1 Sequence Diagram](https://user-images.githubusercontent.com/93520494/166556758-0b4b8d13-f7bf-4498-bd9c-2333ee7ea07c.jpg)
+![UC1 Sequence Diagram](https://user-images.githubusercontent.com/93520494/166558015-6288e680-2808-4ca5-9f46-cf0bf7584680.jpg)
 
 ![UC2 Sequence Diagram](https://user-images.githubusercontent.com/94834832/166523968-1c50da5d-5eff-4ad1-af98-90a7fe166a09.JPG)
 
