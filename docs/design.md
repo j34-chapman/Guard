@@ -5,8 +5,9 @@ TODO: Describe a concrete scenario for each use-case.
 Describe it in terms of interactions between the components introduces above, and the actors introduced in your requirements.
 
 ![Sequence Diagram USECASE 1](https://user-images.githubusercontent.com/93520494/143870996-b880f2d8-9445-4482-adbd-2d3ca584df10.png)
-![UC2 Sequence Diagram](https://user-images.githubusercontent.com/86235504/144866486-58c679b2-5cb6-45f5-8211-57b3ac2cdce5.png)
-![SQ](https://user-images.githubusercontent.com/94834832/166523693-c21cd471-c7c3-468d-914e-ba4df68acd18.JPG)
+![UC2 Sequence Diagram](https://user-images.githubusercontent.com/94834832/166523968-1c50da5d-5eff-4ad1-af98-90a7fe166a09.JPG)
+
+
 
 
 ## User Interface design
