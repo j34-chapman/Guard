@@ -3,7 +3,9 @@
 TODO: Brief outline of your project describing the dataset...
 
 -Airen NG : Use-Case 1 
+
 -Joeseph Wilkinson : Use-Case 2 
+
 -Jake Chapman : Use-Case 3
 
 1. [Planning](docs/planning.md)
