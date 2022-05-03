@@ -28,13 +28,13 @@ TODO: List and describe the actors/users for this product.
 ### Use Cases
 
 
-| UC1 | Search for safest route | 
+| UC1 | Find Safest Area | 
 | -------------------------------------- | ------------------- |
-| **UC1** | Searching for a preferred safe route home |
+| **UC1** | Find Safest Area |
 | **Actors** | Pedestrian |
-| **Assumptions** | Pre-conditions: Log in to the application > Enter desired destination address > Select route based on rate of  crime in different areas. Post-conditions: Select a different route based on rate of crime in different area
-| **Steps** |<pre> 1. Opt to view map and different routes to selected destination address&#13; 2. Request Permission to access user location&#13; 3.Give Permission for geo-location (on request)&#13; 4. Get fastest route to destination address and display areas exhibiting crime rates&#13; 5. View map navigator towards destination address.</pre> |
-| **Variations** | Allow application to select recommended route based of safest route (walking through the lowest crime rate path). |
+| **Assumptions** | Pre-conditions: Log in to the application > Select Option/Button to view Safest Area > Select route based on rate of  crime in different areas. Post-conditions: Choose safest area to say in 
+| **Steps** |<pre> 1. Opt to view data on safest areas&#13; 2. Display lowest number of crime in ascending order</pre> |
+| **Variations** | Find lowest crime per category not just 'Total Crime'. |
 | **Non-functional** | The service should run on different web browsers (Microsoft Edge, Google Chrome, Internet Explorer) |
 | **Issues** | N/A |
 
