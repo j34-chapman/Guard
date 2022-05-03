@@ -59,6 +59,8 @@ TODO: Scope of the System of Interest. Include a bullet list of things from your
 
 ![Screen shot final](https://user-images.githubusercontent.com/93520494/140740275-b840075e-b7d2-444a-abc3-3aabb252537e.png)
 
+List of things that are in the scope from the context diagram:
+
 - HTMl JAva Script 
 - Web application 
 - Smart Watch 
