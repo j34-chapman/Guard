@@ -3,7 +3,7 @@
 ## Test Plan
 TODO: Describe any manual and automated (unit) tests. Uniquely identify each test case. Include prerequisites and test data.
 
-Jake (UC3) - For my USE-case of the search bar , i managed to succesfully run an a auotmated test. I used test cafe to run the test in which it selected in the search bar and typed a specif search query and returned the correct results.
+Jake (UC3) - For my USE-case of the search bar , i managed to succesfully run an a auotmated test. I used test cafe to run the test in which it selected in the search bar and typed a specific search query and returned the correct results.
 
 Test Runs
 TODO: For each test described above, indicate the current status. 
