@@ -5,7 +5,6 @@
 ![Guard Logo](https://user-images.githubusercontent.com/86235504/140732953-5a7f07b3-4f4c-42a9-8275-015084d988aa.png)
 
 ### Problem statement
-TODO: Replace the example text like this with text that describes your project. What is the problem to be addressed? 
 
 According to 'Plan International' https://plan-uk.org/act-for-girls/street-harassment - a charity for children and equality for girls, almost two thirds of adult women (63%) in Britain say they feel unsafe walking alone after dark. Almost half (48%) felt the same way when they were of school age. 
 
@@ -20,7 +19,7 @@ According to 'Plan International' https://plan-uk.org/act-for-girls/street-haras
 
 
 ### Business benefits
-TODO: List high-level benefits that this product will provide.
+
 Improve the safety of women and men walking streets and passing through areas;
 
 - Users, emergency services and the government can work together to help incremenate criminals, allowing users a more accessible way to report crimes
@@ -33,7 +32,6 @@ Improve the safety of women and men walking streets and passing through areas;
 
 
 ### Options Considered
-TODO: What are some other customer options or leading products that address the same needs? - Looking at what other apps provide a similar service and how we can improve them;
 
 - Life360: "Life360 allows you to stay connected to key contacts wherever they are, when you’re walking home alone at night (or any time!)" - https://www.life360.com/intl/
 
@@ -43,7 +41,6 @@ TODO: What are some other customer options or leading products that address the 
 
 
 ### Expected Risks
-TODO: What are the main risks of this project? - Here we are considering why this application may not be succesful and the risks when carrying out this project;
 
 - For people who are carrying out crimes it can be used in a opposite manner and provide a way to target people
 
@@ -53,7 +50,7 @@ TODO: What are the main risks of this project? - Here we are considering why thi
 
 
 ## Project Scope
-TODO: Scope of the System of Interest. Include a bullet list of things from your context diagram that are in scope.
+
 
 
 
