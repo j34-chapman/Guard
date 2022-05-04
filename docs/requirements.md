@@ -71,6 +71,9 @@ TODO: Your Use-Case diagram should include all use-cases.
 
 **FR2:** The system shall display crime rates in different areas surround the path towards destination address from database
 
+**FR3:** The system shall allow the the user to sort the data by specific categories - date, location, number of crimes
+
+**FR4:** The system shall allow the user to search for specific areas of crime within the database
 
 ### Non-Functional Requirements
 NFR1: It should authenticate each user on the app with an id application (Fucntionality (Security))
@@ -80,6 +83,19 @@ NFR2: User data should not be disributed or acessbile by others (Functionality (
 NFR3: It should link a reporting to someones to account Data (Functionality (Tracability))
 
 NFR4: Manipulation of data must be reported (Functionality (Accountablity))
+
+NFR1: The system has crimes tracked on map with error boundaries of 50 metres (reliability/fault tolerance)
+
+NFR2: The system should work in google chrome browser (portability)
+
+NFR3: The time taken for the app to get the users location is within 30 seconds (efficiency/time behaviour)
+
+NFR4: the system takes updated data from the bristol open database (maintainability/stability)
+
+NFR5: the user interface is simple and easy to use elements (usability/understandability)
+
+NFR6: the users location is for private use within the app (functionality/security)
+
 
 TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
 Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
