@@ -3,10 +3,20 @@
 ## Release Notes
 TODO: Describe the current version of the system (with version number. Include system dependencies ands software tools used.
 Are there any known issues? 
+
 Describe the deployment of software components to hardware nodes using a UML Deployment diagram.
+
+### Guard
+Current Version: v1.0.0
+
+The current version of Guard is the first release v1.0.0 and has been developed with software tools such as Visual studio code to write the Javascript and ejs files. these files are linked to a database within mySQL. to create this link certain frameworks are required through the use of Node to allow for the installation of the express framework and dependencies for express and mySQL. dependencies for ESlint were also used to allow for better quality of code
+
+
+Seen below is a UML diagram of the deployment:
 
 ![WEB](https://user-images.githubusercontent.com/93520494/165071233-0a9447ab-d547-4c07-87fa-e47d6b7cbd12.png)
 
+Four major components made up the deployment of the project, these being express, ejs, mySQL and the webserver itself. The webserver is dependent upon all of the other components to allow for it to function correctly, with these allowing access to frameworks and libraries within the webserver to create the project. 
 
 # User guide
 Explanations of each use case along with step-by-step instructions can be found below: 
