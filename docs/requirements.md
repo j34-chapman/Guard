@@ -3,9 +3,7 @@
 ## User Needs
 
 ### User stories
-TODO: Write brief user stories to explain how various actors would interact with the system to accomplish a goal.
-    Express these in the form from agile development:- As a (role) I want (goal) so that (benefit).
-    
+
 - As a civilian/pedestrian, I want to find the safest route so I can get home safely
 - As a civilian/pedestrian, I want to easily report a crime so that I can feel safe knowing that the information will be used by the Emergency Services and other people
 - As a parent, I want to see that my child is arriving to their location safely and be able to see their location incase of an emergency. I will then worry less
@@ -13,7 +11,6 @@ TODO: Write brief user stories to explain how various actors would interact with
    
 
 ### Actors
-TODO: List and describe the actors/users for this product.
 
 - Women
 - Men
@@ -26,7 +23,6 @@ TODO: List and describe the actors/users for this product.
 - Policeman/Policewoman
 
 ### Use Cases
-
 
 | UC1 | Find Safest Area | 
 | -------------------------------------- | ------------------- |
@@ -42,7 +38,7 @@ TODO: List and describe the actors/users for this product.
 | -------------------------------------- | ------------------- |
 | **UC2** | View crime data by category |
 | **Actors** | Pedestrian |
-| **Assumptions** |  Pre-conditions: Log in to the application > Select option to view data by category > Select category to sort data by > select subcategory to view data Post-conditions: Sort data by selected conditions
+| **Assumptions** |  Pre-conditions: Log in to the application > Select option to view data by category > Select category to sort data by > select subcategory to view data. Post-conditions: Sort data by selected conditions depending on category
 | **Steps** |<pre> 1. Opt to view data by category&#13; 2. Opt to select sort by location or date of crime&#13; 3. Display option to select all datas or locations available&#13; 4. Display table of data with conditions selected&#13; 5. Change data in table according to any changes to conditions selected</pre> |
 | **Variations** | allow for indivdual years to be selected when sorting by date |
 | **Non-functional** | The service should run on different web browsers (Microsoft Edge, Google Chrome, Internet Explorer) |
@@ -58,12 +54,8 @@ TODO: List and describe the actors/users for this product.
 | **Non-functional** | The service should run on different web browsers (Microsoft Edge, Google Chrome, Internet Explorer)  |
 | **Issues** | N/A |
 
-TODO: Your Use-Case diagram should include all use-cases.
-
+### Use Case Diagram
 ![Updated USE CASE](https://user-images.githubusercontent.com/93520494/166518607-87068fe1-90af-4658-923c-5a2554591203.jpg)
-
-
-
 
 ## Software Requirements Specification
 ### Functional requirements
@@ -84,20 +76,15 @@ NFR3: It should link a reporting to someones to account Data (Functionality (Tra
 
 NFR4: Manipulation of data must be reported (Functionality (Accountablity))
 
-NFR1: The system has crimes tracked on map with error boundaries of 50 metres (reliability/fault tolerance)
+NFR5: The system has crimes tracked on map with error boundaries of 50 metres (reliability/fault tolerance)
 
-NFR2: The system should work in google chrome browser (portability)
+NFR6: The system should work in google chrome browser (portability)
 
-NFR3: The time taken for the app to get the users location is within 30 seconds (efficiency/time behaviour)
+NFR7: The time taken for the app to get the users location is within 30 seconds (efficiency/time behaviour)
 
-NFR4: the system takes updated data from the bristol open database (maintainability/stability)
+NFR8: the system takes updated data from the bristol open database (maintainability/stability)
 
-NFR5: the user interface is simple and easy to use elements (usability/understandability)
+NFR9: the user interface is simple and easy to use elements (usability/understandability)
 
-NFR6: the users location is for private use within the app (functionality/security)
+NFR10: the users location is for private use within the app (functionality/security)
 
-
-TODO: Consider one or more [quality attributes](https://en.wikipedia.org/wiki/ISO/IEC_9126) to suggest a small number of non-functional requirements.
-Give each non-functional requirement a unique ID. e.g. NFR1, NFR2, ...
-
-Indicate which UC the requirement comes from.
