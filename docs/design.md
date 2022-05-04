@@ -10,6 +10,20 @@ Describe it in terms of interactions between the components introduces above, an
 
 ![UC3 Sequence Diagram](https://user-images.githubusercontent.com/93520494/166569392-19ef49a7-3fcc-4f1f-a9e4-262882a27276.jpg)
 
+UC3 Sequence Diagram Description
+
+-Citizen clicks on search bar
+
+-Citizen wants to find specific areas crime rate
+
+-Citzen types area of there choice 
+
+-This request then goes to the guard server
+
+-The query is then processed finding all information of "Area.."
+
+-The guard server then returns a results table to Guard with matching Search query
+
 
 ## User Interface design
 TODO: Specify and develop a user interface mockup using a wireframe.
