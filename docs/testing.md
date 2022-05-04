@@ -9,7 +9,7 @@ Test Runs
 TODO: For each test described above, indicate the current status. 
 Create a requirements traceability matrix to validate the completeness of the product.
 
-| Use-Case ID | Requirement ID | Test Case            | Status |
+| Use-Case ID | Requirement ID | Test Case             | Status |
 
 | Use-Case 3  | TestCafe (E22) | Search Bar(Southmead) | Pass |
 
