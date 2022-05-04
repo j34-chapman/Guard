@@ -6,11 +6,25 @@ Describe it in terms of interactions between the components introduces above, an
 
 ![UC1 Sequence Diagram](https://user-images.githubusercontent.com/93520494/166558015-6288e680-2808-4ca5-9f46-cf0bf7584680.jpg)
 
-![UC2 Sequence Diagram](https://user-images.githubusercontent.com/94834832/166523968-1c50da5d-5eff-4ad1-af98-90a7fe166a09.JPG)
+![UCSD](https://user-images.githubusercontent.com/94834832/166817373-53faf2f3-bf73-42cc-a7c3-966363e34c14.JPG)
+
+### UC2 Sequence Diagram Description
+
+- Citizen selects view by category
+
+- Categorys to select are returned to the display
+
+- Citizen selects the category that they wish to view
+
+- Request is sent to the guard server to get selected category
+
+- This request is sent as a query to the database
+
+- Query is returned to guard server where it is displayed to the guard client as a results table
 
 ![UC3 Sequence Diagram](https://user-images.githubusercontent.com/93520494/166569392-19ef49a7-3fcc-4f1f-a9e4-262882a27276.jpg)
 
-UC3 Sequence Diagram Description
+### UC3 Sequence Diagram Description
 
 -Citizen clicks on search bar
 
