@@ -53,7 +53,7 @@ TODO: List and describe the actors/users for this product.
 | **UC3** | Search bar for all queries  |
 | **Actors** | Pedestrians |
 | **Assumptions** |  Pre-conditions: Log in to the application > Enter query to be searched into bar located at top right of screen > click button to execute search Post-conditions: search for terms within table using entered query
-| **Steps** | <pre> 1. Opt to select search bar at top right&#13; 2. Opt to enter query wished to be searched&#13; 3. Display table with any contents similar to query entered within search bar </pre>  |
+| **Steps** | <pre> 1. Press button Find Safest Area&#13; 2. Opt to select search bar at top right&#13; 2. Opt to enter query wished to be searched&#13; 3. Display table with any contents similar to query entered within search bar </pre>  |
 | **Variations** | N/A |
 | **Non-functional** | The service should run on different web browsers (Microsoft Edge, Google Chrome, Internet Explorer)  |
 | **Issues** | N/A |
