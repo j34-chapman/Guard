@@ -2,16 +2,38 @@
 
 ## Test Plan
 TODO: Describe any manual and automated (unit) tests. Uniquely identify each test case. Include prerequisites and test data.
+### UC1
 
-Jake (UC3) - For my USE-case of the search bar , i managed to succesfully run an a auotmated test. I used test cafe to run the test in which it selected in the search bar and typed a specific search query and returned the correct results.
+### UC2
+For use-case two, the viewing of the crime data by category, the tests that were run are as follows:
+- automatic end to end testing was used with test cafe to test the use of search by location function within the sort by location category. Within this test the search bar was selected and a search query was tested to see if the correct results were returned.
 
-Test Runs
+### UC3
+- For my use-case of the search bar, i managed to succesfully run an a auotmated test. I used test cafe to run the test in which it selected in the search bar and typed a specific search query and returned the correct results.
+- For testing the functions of the buttons used within the navigation bars of the webpage, i ran manual tests to see if the correct resulting page was reached and recorded the results below 
+
+## Test Runs
 TODO: For each test described above, indicate the current status. 
 Create a requirements traceability matrix to validate the completeness of the product.
+## Requirements Traceability Matrix
+The table below contains all of the test data and its current status:
 
-| Use-Case ID | Requirement ID | Test Case             | Status |
+| Use-Case ID | Requirement ID | Test Case | Status | 
+| ------------| ---------------|-----------|--------|
+| UC1 | FR1 |  | N/A |
+| UC2 | FR2 | Sort by location (Hengrove) | Pass |
+| UC2 | FR2 | Sort by date (2018/2019) | Pass |
+| UC2 | FR2 | View by date (Button) | Pass |
+| UC2 | FR2 | View by location (Button) | Pass |
+| UC3 | FR3 | Search Bar(Southmead) | Pass |
 
-| Use-Case 3  | TestCafe (E22) | Search Bar(Southmead) | Pass |
+## UC1
+
+## UC2
+
+
+
+## UC3 Test Data
 
 -Test Cafe Loading
 <img width="1199" alt="UC3 Search Loading" src="https://user-images.githubusercontent.com/93520494/166723672-daeefb48-05d0-4e58-bef4-6bfcb1260fd4.png">
@@ -31,5 +53,3 @@ Create a requirements traceability matrix to validate the completeness of the pr
 
 -Sucessful test of search bar on test cafe, results shown at terminal
 ![UC3 Search Terminal Complete](https://user-images.githubusercontent.com/93520494/166724719-a7a22bef-86a6-427b-8761-c41138180d4d.jpg)
-
-TODO: Add rows for each test, current status is eg. pass/fail
