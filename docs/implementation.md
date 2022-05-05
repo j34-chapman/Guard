@@ -1,13 +1,10 @@
 # Implementation
 
 ## Introduction
-TODO: Describe the system implemented (Describe the dataset. Are there any known issues? Describe any configuration data).
 
 The system that we implemented is built through the use of several core components, with these being opendata bristol, sql, npm and express. Opendata bristol provided the dataset which was crime throughout bristol over the span of the past few years. Within this dataset was multiple sections with a large amount of data which was imported into a table within sql, which held the database and linked to the server. This was achieved through the use of a configuration file to allow for easy access to the database seperate to the system. npm was utilised to introduce the express framework which allowed for building the web server with ease.
 
 ## Project Structure
-TODO: Provide an outline of the project folder structure and the role of each file within it (not the contents of node_modules).
-provide a table listing the number of jslint warnings/reports for each module.
 
 At the root of the project are 3 main folders and 2 files. The folders are node_modules, static and views whilst the files are conf.json and main.js
 
@@ -34,7 +31,6 @@ The first three errors are in relation to the first three lines of code within t
 The other list of errors are due to a variable located within the callback functions for the webpages which load the table of data from mySQL. The fields variable is defined but is never used within the ejs files, due to its functionality not required. However leaving the variables whilst it may negligbly increase the overall size of the project, it also allows for future versions to utilise the variables to manipulate specific fields of data potentially.
 
 ## Software Architecture
-TODO: Describe the major components of your architecture. Are any particular architectural styles being used?
 
 ![Software Architecture diagram Implmentation](https://user-images.githubusercontent.com/93520494/143852891-3ae9cd20-afef-48d6-93e9-b9d3387cb71e.png)
 
