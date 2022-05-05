@@ -59,13 +59,12 @@
 
 ## Software Requirements Specification
 ### Functional requirements
-**FR1:** The system shall get user geo-location from navigator.geolocation
 
-**FR2:** The system shall display crime rates in different areas surround the path towards destination address from database
+**FR1:** The system shall display crime rates in different areas surround the path towards destination address from database
 
-**FR3:** The system shall allow the the user to sort the data by specific categories - date, location, number of crimes
+**FR2:** The system shall allow the the user to sort the data by specific categories - date, location, number of crimes
 
-**FR4:** The system shall allow the user to search for specific areas of crime within the database
+**FR3:** The system shall allow the user to search for specific areas of crime within the database
 
 ### Non-Functional Requirements
 NFR1: It should authenticate each user on the app with an id application (Fucntionality (Security))
