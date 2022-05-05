@@ -22,7 +22,7 @@ According to 'Plan International' https://plan-uk.org/act-for-girls/street-haras
 
 Improve the safety of women and men walking streets and passing through areas;
 
-- Users, emergency services and the government can work together to help incremenate criminals, allowing users a more accessible way to report crimes
+- Users, emergency services and the government can work together to help incriminate criminals, allowing users a more accessible way to report crimes
 
 - Can very precisely identify where and what crimes happen in each area
 
@@ -44,9 +44,9 @@ Improve the safety of women and men walking streets and passing through areas;
 
 - For people who are carrying out crimes it can be used in a opposite manner and provide a way to target people
 
-- If not enough people use the data and submitt data it can become outdated and unreliable ,last years crimes satistics will not be the same as the month/year/day before
+- If not enough people use the data and submitt data it can become outdated and unreliable, last years crimes satistics will not be the same as the month/year/day before
 
-- Could there be immediate action ? people may question if the data can be provided to the police and may feel like the app is pointless if people do not see the direct result of someone becoming incremneated 
+- Could there be immediate action ? people may question if the data can be provided to the police and may feel like the app is pointless if people do not see the direct result of someone becoming incriminated
 
 
 ## Project Scope
