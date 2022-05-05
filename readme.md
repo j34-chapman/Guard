@@ -2,11 +2,13 @@
 
 Our project is focusing on the safety of Citizens . With our data set from 'Open Data Bristol' it allows us to to see total Crime or Crime by categroy in each area of Bristol over the past 4 years. This will allow a user to identify areas they would like to avoid or visit for example. Our goal is to gives users a peace of when navigating through Bristol. We have decided to call our project "Guard".
 
-- Airen NG: Use Case 1 
+### Listed below are who was in charge of each use-case throughout the project:
 
-- Joseph Wilkinson: Use Case 2 
+- Airen NG: Use-Case 1 
 
-- Jake Chapman: Use Case 3
+- Joseph Wilkinson: Use-Case 2 
+
+- Jake Chapman: Use-Case 3
 
 1. [Planning](docs/planning.md)
 2. [Requirements](docs/requirements.md)
