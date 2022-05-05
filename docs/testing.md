@@ -1,7 +1,7 @@
 # Testing
 
 ## Test Plan
-TODO: Describe any manual and automated (unit) tests. Uniquely identify each test case. Include prerequisites and test data.
+
 ### UC1
 
 ### UC2
@@ -12,9 +12,6 @@ For use-case two, the viewing of the crime data by category, the tests that were
 - For my use-case of the search bar, i managed to succesfully run an a auotmated test. I used test cafe to run the test in which it selected in the search bar and typed a specific search query and returned the correct results.
 - For testing the functions of the buttons used within the navigation bars of the webpage, i ran manual tests to see if the correct resulting page was reached and recorded the results below 
 
-## Test Runs
-TODO: For each test described above, indicate the current status. 
-Create a requirements traceability matrix to validate the completeness of the product.
 ## Requirements Traceability Matrix
 The table below contains all of the test data and its current status:
 
@@ -30,8 +27,6 @@ The table below contains all of the test data and its current status:
 ## UC1
 
 ## UC2
-
-
 
 ## UC3 Test Data
 
